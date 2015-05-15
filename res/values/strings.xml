@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rss reader (test)</string>
+    <string name="rss_item_res">Rss item</string>
+</resources>
